@@ -132,7 +132,7 @@ p {
   font-size: 14px;
   line-height: 52px;
   border-radius: 0px;
-  color: #F8FDFE;
+  color: #fff;
   cursor: pointer;
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
@@ -140,7 +140,7 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #F8FDFE;
+  background-color: #ffb03c;
   border-radius: 40px;
   overflow: hidden;
   position: relative;
