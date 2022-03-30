@@ -133,14 +133,30 @@ p {
 .slick-slide {
   outline: 0;
 }
-/*===== CodePen Button Style =====*/
-.mdi-36px {
-  font-size: 39px;
-  margin-right: 10px;
+/*===== CodePen Bootstap Download APP Button Style =====*/
+.btn-store {
+  color: #777777;
+  min-width: 254px;
+  padding: 12px 20px !important;
+  border-color: #dddddd !important;
 }
 
-.container {
-  margin-top: 150px;
+.btn-store:focus,
+.btn-store:hover {
+  color: #ffffff !important;
+  background-color: #168eea;
+  border-color: #168eea !important;
+}
+
+.btn-store .btn-label,
+.btn-store .btn-caption {
+  display: block;
+  text-align: left;
+  line-height: 1;
+}
+
+.btn-store .btn-caption {
+  font-size: 24px;
 }
 
 /*===== All Button Style =====*/
