@@ -160,6 +160,33 @@ p {
 }
 /*===== END CodePen Bootstap Download APP Button Style =====*/
 
+/*===== CodePen Bootstap Download APP Button Style 2=====*/
+.btn-store2 {
+  color: #ffffff;
+  min-width: 254px;
+  padding: 12px 20px !important;
+  border-color: #dddddd !important;
+}
+
+.btn-store2:focus,
+.btn-store2:hover {
+  color: #4676fd !important;
+  background-color: #ffffff;
+  border-color: #ffffff !important;
+}
+
+.btn-store2 .btn-label2,
+.btn-store2 .btn-caption2 {
+  display: block;
+  text-align: center;
+  line-height: 1;
+}
+
+.btn-store2 .btn-caption2 {
+  font-size: 24px;
+}
+/*===== END CodePen Bootstap Download APP Button Style 2 =====*/
+
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
