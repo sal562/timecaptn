@@ -2280,9 +2280,9 @@ p {
 }
 
 .customers-area .customers-content .item.mt-45 p::before {
-  background-image: -moz-linear-gradient(0deg, #fc0cc0 0%, #aedcfe 100%);
-  background-image: -webkit-linear-gradient(0deg, #fc0cc0 0%, #aedcfe 100%);
-  background-image: -ms-linear-gradient(0deg, #fc0cc0 0%, #aedcfe 100%);
+  background-image: -moz-linear-gradient(0deg, #ff8800 0%, #aedcfe 100%);
+  background-image: -webkit-linear-gradient(0deg, #ff8800 0%, #aedcfe 100%);
+  background-image: -ms-linear-gradient(0deg, #ff8800 0%, #aedcfe 100%);
   content: "04";
 }
 
